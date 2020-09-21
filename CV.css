@@ -18,15 +18,15 @@ body article {
     position: absolute;
     top: 200px;
     left: 195px;
-    width:600px;
+    width:380px;
     height:400px;
-    background-color:aquamarine;
+    background-color:rgb(186, 250, 247);
 }
 body footer {
     position: absolute;
-    top: 550px;
+    top: 570px;
     left: 0px;
-    width:800px;
+    width:575px;
     height:50px;
-    background-color:yellow;
+    background-color:rgb(131, 198, 253);
 }
